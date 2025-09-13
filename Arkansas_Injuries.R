@@ -18,11 +18,11 @@ p4 <- 'Bella Field'
 f5 = 56.9/60
 p5 <- 'White'
 
-#NCAA Division 1 injuries per 1000 regular season games [mean and upper and lowerb bound of 95% 
+#NCAA Division 1 injuries per 1000 regular season games [mean and upper and lower bound of 95% 
 #confidence]
-d1_mean = 6.88
-lb = 6.4
-ub = 7.37
+d1_mean = 15.35
+lb = 14.13
+ub = 16.57
 
 #Players playing last 9:14
 playing = 16
